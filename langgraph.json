@@ -1,0 +1,7 @@
+{
+  "dependencies": [".", "langchain_openai"],
+  "graphs": {
+    "career_coach": "./studio_entry.py:graph_chat"
+  },
+  "env": "./.env"
+}

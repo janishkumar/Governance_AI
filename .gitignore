@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.env
+*.db
+node_modules/
+.next/
+frontend/.next/
+frontend/node_modules/
+backend/uploads/*
+!backend/uploads/.gitkeep
+.venv/
+dist/
+.DS_Store
+next-env.d.ts
+
+# Local/dev artifacts
+venv/
+.venv/
+__pycache__/
+.vscode/
+.pyright/
+.mypy_cache/
+.pytest_cache/
+.DS_Store
